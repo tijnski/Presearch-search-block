@@ -1,5 +1,5 @@
 === startpage ===
-Contributors: akirk
+Contributors: akirk, tijnski
 Tags: startpage, homepage, new-tab, oyd, own-your-data
 Requires at least: 5.0
 Tested up to: 5.1
